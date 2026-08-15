@@ -1,2 +1,2 @@
 # 8-bit-OS
-A SAP 8 bits project.
+** SAP (SIMPLE AS A POSSIBLE) COMPUTER
