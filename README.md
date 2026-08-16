@@ -14,3 +14,14 @@
 3 - Ciclo Busca-Decodifica-Executa (Fetch-Decode-Execute)
 
   A unidade de controle do SAP-1 é síncrona e sequencial. Primeiro, ela ativa o fetch, estágio em   que busca a instruções da RAM, no endereço designado pelo contador de programa, e a envia para    o registrador de instruções, depois decodifica o opcode e,  por fim, executa a instrução.
+
+ 4 - Componentes de Arquitetura clássicos
+
+   O SAP-1 contém todos os blocos essenciais previstos no modelo.
+
+   - Unidade de controle, que gerencia sinais de controle.
+   - ULA, para executar operações lógicas e aritméticas.
+   - Memória principal volátil (RAM).
+   - Registradores, que funcionam como a memória interna da CPU.
+
+  
