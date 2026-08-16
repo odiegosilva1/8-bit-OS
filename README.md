@@ -25,3 +25,6 @@
    - Registradores, que funcionam como a memória interna da CPU.
 
   
+
+
+  
