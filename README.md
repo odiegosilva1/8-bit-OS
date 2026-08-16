@@ -29,7 +29,12 @@
 
   O contador de programa (PC) é oncrementado a cada instrução, rarantindo a execução línear de listas de commandos na memória -- salvo na ocorrência de saltos (jumps), que não existe no SAP-1 original.
 
-  
+
+ 6 - Barramento de Palavra (W-Bus)
+
+  O W-Bus (de Word Bus, Barramento de palavras) é um barramento de dados de 8 bits que interliga todos os componenetes do computador. È a via única por onde trafegam instruç~eos e dados entre a mémóri RAM, os registradores e a ULA (ou ALU). 
+
+
 
 
   
