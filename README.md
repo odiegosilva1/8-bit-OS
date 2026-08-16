@@ -24,6 +24,12 @@
    - Memória principal volátil (RAM).
    - Registradores, que funcionam como a memória interna da CPU.
 
+
+ 5 - Endereçamento Sequencial
+
+  O contador de programa (PC) é oncrementado a cada instrução, rarantindo a execução línear de listas de commandos na memória -- salvo na ocorrência de saltos (jumps), que não existe no SAP-1 original.
+
+
   
 
 
