@@ -34,6 +34,13 @@
 
   O W-Bus (de Word Bus, Barramento de palavras) é um barramento de dados de 8 bits que interliga todos os componenetes do computador. È a via única por onde trafegam instruç~eos e dados entre a mémóri RAM, os registradores e a ULA (ou ALU). 
 
+ 
+ 
+ 7 - Contador de Programa (PC)
+
+  No SAP-1, o Contador de PRograma (Programa Counter ou PC) é um contadoor sincrono de 4 bits (tipicamente implementado com um CI 74LS161) que retém o endereçp da próxima instrução armazenada na RAM (endereço de 0 a 15).
+  O incremento da contagem só acontece sob comando explicito de Unidade de Controle, garantindo o sincronismo do ciclo de busca e execuçaõ de isntruções.  
+
 
 
 
