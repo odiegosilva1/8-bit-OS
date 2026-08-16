@@ -42,6 +42,9 @@
   O incremento da contagem só acontece sob comando explicito de Unidade de Controle, garantindo o sincronismo do ciclo de busca e execuçaõ de isntruções.  
 
 
+  
+
+
 
 
   
