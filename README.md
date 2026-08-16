@@ -29,6 +29,8 @@
 
   O contador de programa (PC) é oncrementado a cada instrução, rarantindo a execução línear de listas de commandos na memória -- salvo na ocorrência de saltos (jumps), que não existe no SAP-1 original.
 
+  
+
 
   
 
