@@ -1,6 +1,6 @@
 # SAP-1 (SIMPLE AS A POSSIBLE) COMPUTER 
 
-<img src="arc-vn.png" alt="Descrição" width="300" height="200">   
+<img src="arc-vn.png" alt="Descrição" width="600" height="400">   
 
 
 1 - Programa Armazenado (strong-program)
