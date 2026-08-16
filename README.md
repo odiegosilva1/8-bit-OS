@@ -1,5 +1,7 @@
 # SAP-1 (SIMPLE AS A POSSIBLE) COMPUTER 
 
+<img src="arc-vn.png" alt="Descrição" width="300" height="200">   
+
 
 1 - Programa Armazenado (strong-program)
   
@@ -42,7 +44,7 @@
   O incremento da contagem só acontece sob comando explicito de Unidade de Controle, garantindo o sincronismo do ciclo de busca e execuçaõ de isntruções.  
 
 
-  
+
 
 
 
